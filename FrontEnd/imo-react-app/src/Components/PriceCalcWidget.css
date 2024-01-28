@@ -1,0 +1,29 @@
+.price-calculator-widget {
+  display: flex;
+  flex-direction: column;
+  border: white 2px solid;
+  justify-content: center;
+  width: 500px;
+  align-items: baseline;
+}
+
+.widget-title {
+  width: 100%;
+  font-size: 25px;
+  text-align: left;
+  padding: 10px;
+  margin: 0;
+}
+
+.search-box {
+  display: flex;
+  justify-content: baseline;
+  align-items: center;
+  border: white 2px solid;
+  height: 100px;
+  width: 100%;
+}
+
+.search-input {
+  margin-left: 20px;
+}
